@@ -30,3 +30,19 @@ To get started, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/credit-card-fraud-detection.git
+
+## Screenshots
+Here are some example outputs from the model:
+
+![Logistic Regression Output](logreg.png)
+*Logistic Regression Results*
+
+![Decision Tree Output](decisiontree.png)
+*Decision Tree Results*
+
+![XGBoost Output](xgboost.png)
+*XGBoost Results*
+
+
+
+
