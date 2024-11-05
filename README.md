@@ -23,7 +23,7 @@ Credit card fraud is a significant issue that affects millions of people worldwi
    - Accuracy: 0.9995
 
 ## Dataset
-The dataset used for this project can be found on Google Drive: [Credit Card Fraud Detection Dataset](https://drive.google.com/your_dataset_link_here)
+The dataset used for this project can be found on Google Drive: [Credit Card Fraud Detection Dataset](https://drive.google.com/drive/folders/1ENewuWChfpncifGyUQ9-_AhR3PUYgtXg?usp=sharing)
 
 ## Installation
 To get started, clone this repository to your local machine:
