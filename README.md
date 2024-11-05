@@ -10,7 +10,6 @@ This repository contains a machine learning model for detecting credit card frau
 - [Usage](#usage)
 - [Results](#results)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Introduction
 Credit card fraud is a significant issue that affects millions of people worldwide. This project aims to build an efficient model to detect fraudulent transactions based on a dataset containing legitimate and fraudulent transactions.
