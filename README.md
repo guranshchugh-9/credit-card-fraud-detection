@@ -6,10 +6,10 @@ This repository contains a machine learning model for detecting credit card frau
 - [Introduction](#introduction)
 - [Models](#models)
 - [Dataset](#dataset)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Screenshots](#screenshots)
 
 ## Introduction
 Credit card fraud is a significant issue that affects millions of people worldwide. This project aims to build an efficient model to detect fraudulent transactions based on a dataset containing legitimate and fraudulent transactions.
@@ -25,12 +25,6 @@ Credit card fraud is a significant issue that affects millions of people worldwi
 ## Dataset
 The dataset used for this project can be found on Google Drive: [Credit Card Fraud Detection Dataset](https://drive.google.com/drive/folders/1ENewuWChfpncifGyUQ9-_AhR3PUYgtXg?usp=sharing)
 
-## Installation
-To get started, clone this repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-
 ## Screenshots
 Here are some example outputs from the model:
 
@@ -42,6 +36,14 @@ Here are some example outputs from the model:
 
 ![XGBoost Output](xgboost.png)
 *XGBoost Results*
+
+## Installation
+To get started, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/credit-card-fraud-detection.git
+
+
 
 
 
